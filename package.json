@@ -38,7 +38,7 @@
     "dotenv": "^2.0.0",
     "email-verification": "github:tellform/node-email-verification",
     "envfile": "^2.1.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "glob": "^7.0.3",
     "grunt": "~0.4.1",
